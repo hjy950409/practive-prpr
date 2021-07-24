@@ -1,0 +1,1 @@
+<div style="text-align:center;">하단바</div>
